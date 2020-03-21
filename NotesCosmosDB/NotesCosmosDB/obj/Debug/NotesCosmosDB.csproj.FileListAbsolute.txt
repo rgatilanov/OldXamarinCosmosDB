@@ -1,0 +1,29 @@
+G:\Laptop PJE\Xamarin\2019\InduccionAzureCosmosDB\NotesCosmosDB\NotesCosmosDB\NotesCosmosDB\obj\Debug\NotesCosmosDB.csprojAssemblyReference.cache
+G:\Laptop PJE\Xamarin\2019\InduccionAzureCosmosDB\NotesCosmosDB\NotesCosmosDB\NotesCosmosDB\obj\Debug\App.xaml.g.cs
+G:\Laptop PJE\Xamarin\2019\InduccionAzureCosmosDB\NotesCosmosDB\NotesCosmosDB\NotesCosmosDB\obj\Debug\Views\NoteListView.xaml.g.cs
+G:\Laptop PJE\Xamarin\2019\InduccionAzureCosmosDB\NotesCosmosDB\NotesCosmosDB\NotesCosmosDB\obj\Debug\Views\NoteItemView.xaml.g.cs
+G:\Laptop PJE\Xamarin\2019\InduccionAzureCosmosDB\NotesCosmosDB\NotesCosmosDB\NotesCosmosDB\obj\Debug\NotesCosmosDB.csproj.CoreCompileInputs.cache
+G:\Laptop PJE\Clases de Maestría\Xamarin\2020\InduccionAzureCosmosDB\NotesCosmosDB\NotesCosmosDB\NotesCosmosDB\bin\Debug\Microsoft.Azure.Documents.ServiceInterop.dll
+G:\Laptop PJE\Clases de Maestría\Xamarin\2020\InduccionAzureCosmosDB\NotesCosmosDB\NotesCosmosDB\NotesCosmosDB\bin\Debug\Cosmos.CRTCompat.dll
+G:\Laptop PJE\Clases de Maestría\Xamarin\2020\InduccionAzureCosmosDB\NotesCosmosDB\NotesCosmosDB\NotesCosmosDB\bin\Debug\NotesCosmosDB.dll
+G:\Laptop PJE\Clases de Maestría\Xamarin\2020\InduccionAzureCosmosDB\NotesCosmosDB\NotesCosmosDB\NotesCosmosDB\bin\Debug\NotesCosmosDB.pdb
+G:\Laptop PJE\Clases de Maestría\Xamarin\2020\InduccionAzureCosmosDB\NotesCosmosDB\NotesCosmosDB\NotesCosmosDB\obj\Debug\NotesCosmosDB.csprojAssemblyReference.cache
+G:\Laptop PJE\Clases de Maestría\Xamarin\2020\InduccionAzureCosmosDB\NotesCosmosDB\NotesCosmosDB\NotesCosmosDB\obj\Debug\App.xaml.g.cs
+G:\Laptop PJE\Clases de Maestría\Xamarin\2020\InduccionAzureCosmosDB\NotesCosmosDB\NotesCosmosDB\NotesCosmosDB\obj\Debug\Views\NoteListView.xaml.g.cs
+G:\Laptop PJE\Clases de Maestría\Xamarin\2020\InduccionAzureCosmosDB\NotesCosmosDB\NotesCosmosDB\NotesCosmosDB\obj\Debug\Views\NoteItemView.xaml.g.cs
+G:\Laptop PJE\Clases de Maestría\Xamarin\2020\InduccionAzureCosmosDB\NotesCosmosDB\NotesCosmosDB\NotesCosmosDB\obj\Debug\NotesCosmosDB.csproj.CoreCompileInputs.cache
+G:\Laptop PJE\Clases de Maestría\Xamarin\2020\InduccionAzureCosmosDB\NotesCosmosDB\NotesCosmosDB\NotesCosmosDB\obj\Debug\XamlC.stamp
+G:\Laptop PJE\Clases de Maestría\Xamarin\2020\InduccionAzureCosmosDB\NotesCosmosDB\NotesCosmosDB\NotesCosmosDB\obj\Debug\NotesCosmosDB.dll
+G:\Laptop PJE\Clases de Maestría\Xamarin\2020\InduccionAzureCosmosDB\NotesCosmosDB\NotesCosmosDB\NotesCosmosDB\obj\Debug\NotesCosmosDB.pdb
+G:\EjerciciosMTWDM2020\NotesCosmosDB\NotesCosmosDB\NotesCosmosDB\bin\Debug\Microsoft.Azure.Documents.ServiceInterop.dll
+G:\EjerciciosMTWDM2020\NotesCosmosDB\NotesCosmosDB\NotesCosmosDB\bin\Debug\Cosmos.CRTCompat.dll
+G:\EjerciciosMTWDM2020\NotesCosmosDB\NotesCosmosDB\NotesCosmosDB\bin\Debug\NotesCosmosDB.dll
+G:\EjerciciosMTWDM2020\NotesCosmosDB\NotesCosmosDB\NotesCosmosDB\bin\Debug\NotesCosmosDB.pdb
+G:\EjerciciosMTWDM2020\NotesCosmosDB\NotesCosmosDB\NotesCosmosDB\obj\Debug\App.xaml.g.cs
+G:\EjerciciosMTWDM2020\NotesCosmosDB\NotesCosmosDB\NotesCosmosDB\obj\Debug\Views\NoteListView.xaml.g.cs
+G:\EjerciciosMTWDM2020\NotesCosmosDB\NotesCosmosDB\NotesCosmosDB\obj\Debug\Views\NoteItemView.xaml.g.cs
+G:\EjerciciosMTWDM2020\NotesCosmosDB\NotesCosmosDB\NotesCosmosDB\obj\Debug\NotesCosmosDB.csproj.CoreCompileInputs.cache
+G:\EjerciciosMTWDM2020\NotesCosmosDB\NotesCosmosDB\NotesCosmosDB\obj\Debug\XamlC.stamp
+G:\EjerciciosMTWDM2020\NotesCosmosDB\NotesCosmosDB\NotesCosmosDB\obj\Debug\NotesCosmosDB.dll
+G:\EjerciciosMTWDM2020\NotesCosmosDB\NotesCosmosDB\NotesCosmosDB\obj\Debug\NotesCosmosDB.pdb
+G:\EjerciciosMTWDM2020\NotesCosmosDB\NotesCosmosDB\NotesCosmosDB\obj\Debug\NotesCosmosDB.csprojAssemblyReference.cache

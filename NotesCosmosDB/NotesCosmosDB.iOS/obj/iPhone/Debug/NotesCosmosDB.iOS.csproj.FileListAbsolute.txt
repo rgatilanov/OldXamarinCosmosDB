@@ -1,0 +1,8 @@
+G:\Laptop PJE\Xamarin\2019\InduccionAzureCosmosDB\NotesCosmosDB\NotesCosmosDB\NotesCosmosDB.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+G:\Laptop PJE\Xamarin\2019\InduccionAzureCosmosDB\NotesCosmosDB\NotesCosmosDB\NotesCosmosDB.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+G:\Laptop PJE\Xamarin\2019\InduccionAzureCosmosDB\NotesCosmosDB\NotesCosmosDB\NotesCosmosDB.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+G:\Laptop PJE\Xamarin\2019\InduccionAzureCosmosDB\NotesCosmosDB\NotesCosmosDB\NotesCosmosDB.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+G:\Laptop PJE\Xamarin\2019\InduccionAzureCosmosDB\NotesCosmosDB\NotesCosmosDB\NotesCosmosDB.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+G:\Laptop PJE\Xamarin\2019\InduccionAzureCosmosDB\NotesCosmosDB\NotesCosmosDB\NotesCosmosDB.iOS\obj\iPhone\Debug\optimized\
+G:\Laptop PJE\Xamarin\2019\InduccionAzureCosmosDB\NotesCosmosDB\NotesCosmosDB\NotesCosmosDB.iOS\obj\iPhone\Debug\NotesCosmosDB.iOS.csprojAssemblyReference.cache
+G:\Laptop PJE\Xamarin\2019\InduccionAzureCosmosDB\NotesCosmosDB\NotesCosmosDB\NotesCosmosDB.iOS\obj\iPhone\Debug\NotesCosmosDB.iOS.csproj.CoreCompileInputs.cache

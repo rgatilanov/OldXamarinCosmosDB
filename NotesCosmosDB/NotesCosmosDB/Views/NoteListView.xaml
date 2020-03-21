@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="NotesCosmosDB.Views.NoteListView"
+             Title="Notes">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem
+            Name="Add" 
+            Command="{Binding AddCommand}">
+            <ToolbarItem.Icon>
+                <OnPlatform 
+                    x:TypeArguments="FileImageSource"
+                    Android="plus"  
+                    iOS="plus.png" />
+            </ToolbarItem.Icon>
+        </ToolbarItem>
+    </ContentPage.ToolbarItems>
+    <ListView 
+        ItemsSource="{Binding Items}" 
+        SelectedItem="{Binding SelectedItem, Mode=TwoWay}"
+        RowHeight="60">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <ViewCell.View>
+                        <StackLayout 
+                            Padding="12,0,12,0"                            
+                            HorizontalOptions="FillAndExpand">
+                            <Label 
+                                Text="{Binding Notes}"
+                                FontSize="Medium"
+                                FontAttributes="Bold"/>
+                            <Label 
+                                Text="{Binding Date}"
+                                FontSize="Small"/>
+                        </StackLayout>
+                    </ViewCell.View>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+</ContentPage>
